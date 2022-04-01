@@ -22,7 +22,7 @@ Simulations of this environment come with a heavy computational burden
 and generate large amounts of data. It is no wonder that fluid dynamics researchers ride the latest trends 
 in data analysis including deep learning. 
 
-Traditional control schemes of turbulent flow bring together data analysis and and engineering controls for 
+Traditional control schemes of turbulent flow bring together [data analysis and and engineering controls](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/67/5/050801/369906/Closed-Loop-Turbulence-Control-Progress-and) for 
 dimensionality reduction and feedback controls which rely on a priori knowledge of the system and fine-tuning. 
 Deep Reinforcement learning (RL) is a branch of  Deep Learning which gives the pattern finding agent the ability 
 to take actions in a state in order to learn cause-and-effect relationships which is currently being applied to many 
