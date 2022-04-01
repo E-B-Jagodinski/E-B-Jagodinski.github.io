@@ -9,6 +9,8 @@ My background is in systems engineering studying underwater robotics and receive
 Ocean Systems Engineering. Since then, I've moved into Data Science and Physics for my dissertation where I 
 found a passion for programming and computers.
 
+<img src=wholeDomain.png width="750">
+
 ## Current Research
 
 Turbulent fluid dynamics are called the [last great challenge of classical physics](https://cosmosmagazine.com/science/physics/turbulence-trouble/): 
