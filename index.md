@@ -9,7 +9,7 @@ My background is in systems engineering studying underwater robotics and receive
 Ocean Systems Engineering. Since then, I've moved into Data Science and Physics for my dissertation where I 
 found a passion for programming and computers.
 
-<img src=wholeDomain.png width="750">
+![fluids simulation](wholeDomain.png)
 
 ## Current Research
 
