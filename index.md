@@ -1,5 +1,3 @@
-# E.B. Jagodinski
-
 - [Email](ejagodin@fau.edu)
 - [LinkedIn](http://www.linkedin.com/in/eric-jagodinski) &nbsp;
 - [Twitter](https://twitter.com/EricJagodinski)
